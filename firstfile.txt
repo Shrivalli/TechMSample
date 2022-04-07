@@ -2,6 +2,19 @@ This is the first file created to understand git.
 
 This is the second line which was typed recently.
 
+<<<<<<< HEAD
 This is the fifth commit
+=======
+git clone - download a git url contents
+
+# updated by Alhad
+This is the fourth line 
+
+
+>>>>>>> 541f51c0dc0dbaddeb038ac843d0296d36c14fe2
+
+
+This is the fifth commit
+
 
 
